@@ -1,0 +1,1 @@
+Verified portrait loader enabled. The live page retains a valid JPEG fallback and loads the new optimized portraits from verified text-encoded image parts.
