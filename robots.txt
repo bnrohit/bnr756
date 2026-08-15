@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bnrohit.github.io/bnr756/sitemap.xml
