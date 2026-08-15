@@ -1,5 +1,5 @@
 # Rohith Bommalla Naresh — Engineering Portfolio
 
-Production static portfolio for GitHub Pages.
+Production GitHub Pages portfolio with resilient photo loading, animated network telemetry, data-center visuals, Cisco/Linux/automation themes, research, media and projects.
 
-Live portfolio: `https://bnrohit.github.io/bnr756/rohith-bommalla-naresh/`
+Live: `https://bnrohit.github.io/bnr756/rohith-bommalla-naresh/`
